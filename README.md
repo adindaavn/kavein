@@ -1,1 +1,1 @@
-## database = db_waduh
+#### database = db_waduh.sql
